@@ -1,6 +1,5 @@
 # Training the classifiers and then pickling.
-# This entire process may take some time.
-# Please, be patient !
+# Executing it sucks time. :P
 
 import nltk
 import random
